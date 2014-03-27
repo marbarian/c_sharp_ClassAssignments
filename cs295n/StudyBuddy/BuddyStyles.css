@@ -1,0 +1,61 @@
+﻿body 
+{
+}
+#PageWrapper 
+{
+    background-color: #99FF66;
+    padding-bottom: 10px;
+}
+footer 
+{
+    padding:5px;
+    text-align: center;
+}
+
+header 
+{
+    text-align: center;
+}
+aside 
+{
+    float: right;
+    width: 100px;
+    border-left: 2px solid white;
+    padding-left: 5px;
+}
+#AsideLeft 
+{
+    padding-left: 5px;
+    float: left;
+    width:200px;
+    border-right: 2px solid white;
+    padding-right: 5px;
+}
+.MainContent 
+{
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.Card 
+{
+    width: 500px;
+    height: 250px;
+    padding: 20px 10px 10px 10px;
+    background-image:url('Pictures/Notecard.jpg');
+
+} 
+.right 
+{
+    float:right;
+}
+.ErrorMessage 
+{
+    color: red;
+}
+.user_input 
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 27px;
+}
